@@ -1,5 +1,5 @@
 # DMVMLC-VT
-Code for the paper'DMVMLC-VT: Deep Incomplete Multi-View Image Classification with View Translation and Pseudo-Label Enhancement' (under submission)
+Code for the paper'DMVMLC-VT: Deep Incomplete Multi-View Multi-Label Image Classification with View Translation and Pseudo-Label Enhancement' (under submission)
 
 ## Running the project
 You can run "python main.py" to train model and get the best results.
