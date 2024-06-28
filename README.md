@@ -5,4 +5,4 @@ Code for the paper'DMVMLC-VT: Deep Incomplete Multi-View Image Classification wi
 You can run "python main.py" to train model and get the best results.
 
 
-For questions or feedback, please contact [1074589376liu@gmail.com](1074589376liu@gmail.com). 
+For questions or feedback, please contact [1074589376liu@gmail.com](mailto:1074589376liu@gmail.com). 
